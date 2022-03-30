@@ -1,0 +1,19 @@
+p {
+    color: aqua; 
+    background-color: black;
+}
+
+p {
+    color: blue;
+    background-color: aquamarine;
+}
+
+.Clasa1 {
+    color: blanchedalmond;
+    background-color: aqua;
+}
+
+#voicu {
+    color: blueviolet;
+    background-color: blueviolet;
+}
